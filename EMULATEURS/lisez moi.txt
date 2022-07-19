@@ -1,0 +1,6 @@
+J'ai mis dans ce repertoire les plus recentes version des emulateurs n64 que j'ai trouvé 
+j'utilise pj64 ( project 64 ) conjointement avec 1964 v0.99 se sont tous deux de tres bons emulateurs
+testez les autres aussi si le coeur vous en dit mais cela n'est pas necessaire....
+HAVE FUN !
+
+Merci a smartorrent.com et toutes les personnes qui contribuent
